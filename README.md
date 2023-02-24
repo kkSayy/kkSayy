@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 ## curso tecnico em desenvolvimentos de sistemas 
 
 
+<!-- colocando icons -->
+
 <img height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 
 <a href="https://devicon.dev/" > Devicons </a>
+
+<!-- colocando imagens -->
