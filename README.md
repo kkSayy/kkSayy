@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 <a href="https://devicon.dev/" > Devicons </a>
 
 <!-- colocando imagens -->
+
+
+
+<img src="image">
