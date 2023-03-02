@@ -23,4 +23,7 @@
 
 
 
-<img src="download.jpg">
+<img height="200px" src="download.jpg" alt="imagem de hardware" title="BLUE">
+
+
+
